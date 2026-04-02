@@ -7,3 +7,7 @@ I think I screwed up the repo name. Oh well.
 2. Inital letter is B (2).
 Class is Bombs (I was going to do baskets, but you can buy those on Amazon).
 Attribute Type is name (string), type(float), explosive (string) and yeild(float)
+
+All images sourced from Wikipedia, and are public domain.
+Information found within is also from wikipida, and their sourcing is from Janes.
+
